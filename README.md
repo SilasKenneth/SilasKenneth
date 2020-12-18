@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Silas Github Stats](https://github-readme-stats.vercel.app/api?username=silaskenneth&count_private=true&show_icons=true&theme=onedark)
+![Silas Github Stats](https://github-readme-stats.vercel.app/api?username=silaskenneth&count_private=true&show_icons=true&theme=dracula)
